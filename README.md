@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Siris</h1>
 <br>
 <h4 align="center">
-<a href="https://siris.me">Personal Website</a>
+<a target="_blank" href="https://siris.me">Personal Website</a>
 ·
-<a href="https://invi-bot.xyz">Invite Management Bot</a>
+<a target="_blank" href="https://invi-bot.xyz">Invite Management Bot</a>
 ·
-<a href="https://stats.fm/siris01">Stats.fm</a>
+<a target="_blank" href="https://stats.fm/siris01">Stats.fm</a>
 </h4>
 <br>
 <p align="center">
