@@ -2,13 +2,13 @@
 <h4>Hi, I'm Siris.</h4>
 <h4>CSE undergrad, full stack developer with ML interest, experienced in TypeScript and intermediate in Rust.</h4>
 <h2 align="center">Links</h2>
-<h3>
+<h4>
 <ul>
 <li><a target="_blank" href="https://siris.me">Personal Website</a></li>
 <li><a target="_blank" href="https://invi-bot.xyz">Invite Management Bot</a></li>
 <li><a target="_blank" href="https://stats.fm/siris01">Stats.fm</a></li>
 </ul>
-</h3>
+</h4>
 <h2 align="center">Stats</h2>
 <p align="center">
   <img src="https://git-stats.siris.me/api/?username=siris01&show_icons=true&layout=compact&title_color=C9CBFF&text_color=cad3f5&icon_color=cad3f5&bg_color=181926&hide_border=true&count_private=true&include_all_commits=true&card_width=500" alt="Overview">
