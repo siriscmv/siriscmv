@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Siris</h1>
-<h3>CSE undergrad, full stack developer with ML interest, experienced in TypeScript and intermediate in Rust.</h3>
+<h2 align="center">About Me</h2>
+<h4>Hi, I'm Siris.</h4>
+<h4>CSE undergrad, full stack developer with ML interest, experienced in TypeScript and intermediate in Rust.</h4>
 <h2 align="center">Links</h2>
 <h3>
-· <a target="_blank" href="https://siris.me">Personal Website</a>
-<br>
-· <a target="_blank" href="https://invi-bot.xyz">Invite Management Bot</a>
-<br>
-· <a target="_blank" href="https://stats.fm/siris01">Stats.fm</a>
+<ul>
+<li><a target="_blank" href="https://siris.me">Personal Website</a></li>
+<li><a target="_blank" href="https://invi-bot.xyz">Invite Management Bot</a></li>
+<li><a target="_blank" href="https://stats.fm/siris01">Stats.fm</a></li>
+</ul>
 </h3>
 <h2 align="center">Stats</h2>
 <p align="center">
