@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siris</h1>
 <h3 align="center">CSE undergrad, full stack developer with ML interest, experienced in TypeScript and intermediate in Rust.</h3>
 <h2 align="center">Links</h2>
-<h3 align="center">
+<h3>
 · <a target="_blank" href="https://siris.me">Personal Website</a>
 <br>
 · <a target="_blank" href="https://invi-bot.xyz">Invite Management Bot</a>
