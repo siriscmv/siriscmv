@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
-<h4>Hi, I'm Siris.</h4>
-<h4>CSE undergrad, full stack developer with ML interest, experienced in TypeScript and intermediate in Rust.</h4>
+<p>Hi, I'm Siris.</p>
+<p>CSE undergrad, full stack developer with ML interest, experienced in TypeScript and intermediate in Rust.</p>
 <h2 align="center">Links</h2>
 <h4>
 <ul>
