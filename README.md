@@ -7,11 +7,11 @@ Hey there 👋
 
 ## Stats
 
-![Overview](https://git-stats.siris.me/api/?username=siriscmv&show_icons=true&layout=compact&custom_title=My+GitHub+Stats&hide_rank=true&title_color=ffffff&text_color=fefefe&icon_color=fefefe&bg_color=181818&hide_border=true&count_private=true&include_all_commits=true&card_width=500)
+![Overview](https://git-stats.siris.me/api/?username=siriscmv&show_icons=true&layout=compact&custom_title=My+GitHub+Stats&hide_rank=true&title_color=ffffff&text_color=fefefe&icon_color=fefefe&bg_color=181818&hide_border=false&count_private=true&include_all_commits=true&card_width=500)
 
-![Languages](https://git-stats.siris.me/api/top-langs/?layout=compact&icon_color=fefefe&count_private=true&username=siriscmv&langs_count=10&bg_color=181818&hide_border=true&title_color=ffffff&text_color=fefefe&show_icons=true&card_width=500&hide=jupyter%20notebook,html)
+![Languages](https://git-stats.siris.me/api/top-langs/?layout=compact&icon_color=fefefe&count_private=true&username=siriscmv&langs_count=10&bg_color=181818&hide_border=false&title_color=ffffff&text_color=fefefe&show_icons=true&card_width=500&hide=jupyter%20notebook,html)
 
-![Wakatime](https://git-stats.siris.me/api/wakatime/?username=siriscmv&show_icons=true&layout=compact&title_color=ffffff&text_color=fefefe&icon_color=fefefe&bg_color=181818&hide_border=true&langs_count=10&card_width=500)
+![Wakatime](https://git-stats.siris.me/api/wakatime/?username=siriscmv&show_icons=true&layout=compact&title_color=ffffff&text_color=fefefe&icon_color=fefefe&bg_color=181818&hide_border=false&langs_count=10&card_width=500)
 
 ## Languages and Tools
 
