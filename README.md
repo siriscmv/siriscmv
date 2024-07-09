@@ -5,6 +5,19 @@ Hey there 👋
 - [Invite Management Bot](https://invi-bot.xyz)
 - [Stats.fm](https://stats.fm/siriscmv)
 
+## Featured Repositories
+
+- [Moodle Scraper](https://github.com/siriscmv/moodle-scraper) - A website that scrapes assignments from moodle based websites to show upcoming and overdue assignments with push notifications support.
+- [Food Delivery App](https://github.com/siriscmv/food-delivery-app) - A thoughtfully designed food delivery application using Next.js for both the frontend and backend.
+- [Daily Quotes widget for iOS](https://github.com/siriscmv/daily-quotes-widget-ios) - A tiny script to display a new random quote with a random color scheme on your iOS homescreen.
+- [Smart Lock](https://github.com/siriscmv/smart-lock) - An IoT project to solve the problem of unauthorized vehicle access during transit.
+- [Discord Fluent](https://github.com/siriscmv/discord-fluent) - Custom CSS generated using a Rust script to replace Twitter's Twemojis with Microsoft's Fluent Emojis.
+- [Catppuccinify](https://github.com/siriscmv/catppuccinify) - Appy LUTs to your photos right from your browser using Wasm.
+- [Invite Management Utility](https://github.com/siriscmv/invite-management-utility) - An open source Discord helper bot that is being used in the official support server of [Invite Management](https://invi-bot.xyz).
+- [Clyde TUI](https://github.com/siriscmv/clyde-tui) - Access ChatGPT right from your terminal! (now defunct).
+- [Ayu Green](https://github.com/siriscmv/ayu-green) - A fork of the famous Ayu theme with green accents instead of orange.
+- [NGINX Discord interactions verifier](https://github.com/siriscmv/ngx-discord-interactions-verifier) - A NGINX module that natively verifies discord interaction payloads using ED25519 at the reverse proxy level before it even hits your service.
+
 ## Stats
 
 ![Overview](https://git-stats.siris.me/api/?username=siriscmv&show_icons=true&layout=compact&custom_title=My+GitHub+Stats&hide_rank=true&title_color=ffffff&text_color=fefefe&icon_color=fefefe&bg_color=181818&hide_border=false&count_private=true&include_all_commits=true&card_width=500)
