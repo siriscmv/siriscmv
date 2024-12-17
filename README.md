@@ -7,6 +7,7 @@ Hey there 👋
 
 ## Featured Repositories
 
+- [Game Engine](https://github.com/siriscmv/game-engine) - A game engine written in C++ using SDL2 with features such as a physics system, multiplayer support, input handling, side-scrolling, replay system, customizable frame rates and timeline speeds, and more.
 - [Moodle Scraper](https://github.com/siriscmv/moodle-scraper) - A website that scrapes assignments from moodle based websites to show upcoming and overdue assignments with push notifications support.
 - [Food Delivery App](https://github.com/siriscmv/food-delivery-app) - A thoughtfully designed food delivery application using Next.js for both the frontend and backend.
 - [Daily Quotes widget for iOS](https://github.com/siriscmv/daily-quotes-widget-ios) - A tiny script to display a new random quote with a random color scheme on your iOS homescreen.
