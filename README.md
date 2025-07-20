@@ -3,7 +3,6 @@ Hey there 👋
 ## Links
 
 - [Invite Management Bot](https://invi-bot.xyz)
-- [Stats.fm](https://stats.fm/siriscmv)
 
 ## Featured Repositories
 
